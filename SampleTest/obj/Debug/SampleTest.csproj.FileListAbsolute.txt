@@ -1,0 +1,11 @@
+D:\RND\CodeCoverage\SampleTest\bin\Debug\NUnitSample.bat
+D:\RND\CodeCoverage\SampleTest\bin\Debug\SampleTest.dll
+D:\RND\CodeCoverage\SampleTest\bin\Debug\SampleTest.pdb
+D:\RND\CodeCoverage\SampleTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\RND\CodeCoverage\SampleTest\bin\Debug\nunit.framework.dll
+D:\RND\CodeCoverage\SampleTest\bin\Debug\Sample.dll
+D:\RND\CodeCoverage\SampleTest\bin\Debug\Sample.pdb
+D:\RND\CodeCoverage\SampleTest\bin\Debug\nunit.framework.xml
+D:\RND\CodeCoverage\SampleTest\obj\Debug\SampleTest.csprojResolveAssemblyReference.cache
+D:\RND\CodeCoverage\SampleTest\obj\Debug\SampleTest.dll
+D:\RND\CodeCoverage\SampleTest\obj\Debug\SampleTest.pdb

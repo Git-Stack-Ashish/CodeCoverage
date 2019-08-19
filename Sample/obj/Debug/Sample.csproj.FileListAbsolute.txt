@@ -1,0 +1,7 @@
+D:\RND\CodeCoverage\Sample\bin\Debug\Sample.dll
+D:\RND\CodeCoverage\Sample\bin\Debug\Sample.pdb
+D:\RND\CodeCoverage\Sample\bin\Debug\nunit.framework.dll
+D:\RND\CodeCoverage\Sample\bin\Debug\nunit.framework.xml
+D:\RND\CodeCoverage\Sample\obj\Debug\Sample.csprojResolveAssemblyReference.cache
+D:\RND\CodeCoverage\Sample\obj\Debug\Sample.dll
+D:\RND\CodeCoverage\Sample\obj\Debug\Sample.pdb

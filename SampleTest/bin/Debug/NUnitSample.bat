@@ -1,0 +1,1 @@
+..\..\..\packages\NUnit.Runners.3.4.1\tools\nunit-console.exe sample.test.dll

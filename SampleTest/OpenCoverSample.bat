@@ -1,0 +1,1 @@
+..\..\..\packages\OpenCover.4.6.519\OpenCover.Console.exe -target:NUnitSample.bat -register:user -filter:+[Sample]*
